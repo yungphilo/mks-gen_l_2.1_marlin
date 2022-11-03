@@ -1,0 +1,61 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "d:/Docments/work/code/3D/小树定制固件3.19/Marlin2.081/Marlin",
+                "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "d:/Docments/work/code/3D/小树定制固件3.19/Marlin2.081/.pio/libdeps/mega2560/U8glib-HAL/src",
+                "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "d:/Docments/work/code/3D/小树定制固件3.19/Marlin2.081/.pio/libdeps/mega2560/TMCStepper/src",
+                "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/BONC/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/BONC/.platformio/packages/framework-arduino-avr/variants/mega",
+                "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "d:/Docments/work/code/3D/小树定制固件3.19/Marlin2.081/Marlin",
+                    "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "d:/Docments/work/code/3D/小树定制固件3.19/Marlin2.081/.pio/libdeps/mega2560/U8glib-HAL/src",
+                    "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "d:/Docments/work/code/3D/小树定制固件3.19/Marlin2.081/.pio/libdeps/mega2560/TMCStepper/src",
+                    "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/BONC/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/BONC/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "C:/Users/BONC/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60002",
+                "ARDUINO_AVR_MEGA2560",
+                "__MARLIN_FIRMWARE__",
+                "NDEBUG",
+                "BOARD_F_CPU=16000000L",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/BONC/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega2560",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
