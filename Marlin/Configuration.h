@@ -36,7 +36,7 @@ TFT35触屏 = 2 稍后完善
 
 
 //==============自定义主屏显示名称=============
-#define CUSTOM_MACHINE_NAME "I3" //删除注释开启
+#define CUSTOM_MACHINE_NAME "MiniTree_i3" //删除注释开启
 
 
 //==============中英双语=============
